@@ -14,7 +14,34 @@ public static void main (String[] args) {
 System.out.println("Lukacs Eszter, 2022-02-22");
 Scanner sc = new Scanner(System.in);
 
+	System.out.print("Ado: ");
+	int a = sc.nextInt();
 
+System.out.println("");
 
+	System.out.print("Garazs: ");
+	int b = sc.nextInt();
+
+System.out.println("");
+
+	System.out.print("Javitasi koltseg: ");
+	int c = sc.nextInt();
+
+System.out.println("");
+
+	System.out.print("Benzin: ");
+	int d = sc.nextInt();
+
+System.out.println("");
+
+	System.out.print("Javitasi koltseg: ");
+	int e = sc.nextInt();
+	
+System.out.println("");
+
+	System.out.print("Javitasi koltseg: ");
+	int f = sc.nextInt();	
+	
+	
 }	
 }

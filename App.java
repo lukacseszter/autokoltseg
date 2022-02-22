@@ -8,9 +8,12 @@
 * Licenc: GNU GPL
 */
 
+import java.util.Scanner;
 class App {
 public static void main (String[] args) {
 System.out.println("Lukacs Eszter, 2022-02-22");
+Scanner sc = new Scanner(System.in);
+
 
 
 }	

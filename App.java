@@ -34,13 +34,14 @@ System.out.println("");
 
 System.out.println("");
 
-	System.out.print("Javitasi koltseg: ");
+	System.out.print("Megtett km: ");
 	int e = sc.nextInt();
 	
 System.out.println("");
 
-	System.out.print("Javitasi koltseg: ");
-	int f = sc.nextInt();	
+System.out.print("Koltseg: ");
+System.out.print(a + b + c + d / e);	
+
 	
 	
 }	
